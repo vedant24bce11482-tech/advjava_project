@@ -1,5 +1,6 @@
 # advjava_project
 # Simple Event Management System
+#vedant ashtikar (24bce11482)
 
 A beginner-friendly Java Swing project for managing event records with a desktop GUI.
 
@@ -204,4 +205,4 @@ This project is useful for practicing:
 
 ## Author
 
-GitHub: `AliveCore729`
+GitHub: ` https://github.com/vedant24bce11482-tech `
